@@ -77,7 +77,7 @@ During testing, I hit a real CRITICAL vulnerability in my base image. I didn't m
 ### Trivy CVE Scan
 *Clean scan after base image upgrade — no HIGH or CRITICAL vulnerabilities*
 
-![Trivy Scan](Trivy%20scan%20.png.png)
+![Trivy Report](trivy-scan.png.png)
 
 ---
 
